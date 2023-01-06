@@ -29,3 +29,4 @@
   - [zsh](https://www.zsh.org/) - дуже потужна оболонка для тірміналу, рекомендую замість `bash`
   - [powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) - дуже потужна тема для zsh, інформативна, налаштовувана
   - [OhMyZSH](https://ohmyz.sh) - інструмент для зручного налаштування zsh
+  - [Neutralino.js](https://neutralino.js.org/) - фреймворк для перетворення веб-додатків у стацінарні
