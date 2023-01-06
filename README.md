@@ -3,6 +3,7 @@
 ## 1. VSCode:
   
   Themes:
+  
     ```json
     "workbench.colorTheme": "Community Material Theme Palenight High Contrast"
     ```
