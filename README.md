@@ -1,10 +1,12 @@
 # Мій Minimal-TOP-2022 інструментів для зручної роботи з Node у VS Code:
 
 ## 1. VSCode:
+  
   Themes:
     ```json
     "workbench.colorTheme": "Community Material Theme Palenight High Contrast"
     ```
+  
   Plugins(ids):
 
   + Equinusocio.vsc-community-material-theme
