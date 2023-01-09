@@ -30,3 +30,8 @@
   - [powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) - дуже потужна тема для zsh, інформативна, налаштовувана
   - [OhMyZSH](https://ohmyz.sh) - інструмент для зручного налаштування zsh
   - [Neutralino.js](https://neutralino.js.org/) - фреймворк для перетворення веб-додатків у стацінарні
+  
+
+## 3. Підказки:
+
+  - Якщо можливо, не використовуйте деструктуризацію у імпортах. Це збільшує розмір збірки і сповільнює роботу додатку.
