@@ -30,6 +30,7 @@
   - [powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) - дуже потужна тема для zsh, інформативна, налаштовувана
   - [OhMyZSH](https://ohmyz.sh) - інструмент для зручного налаштування zsh
   - [Neutralino.js](https://neutralino.js.org/) - фреймворк для перетворення веб-додатків у стацінарні
+  - [Turbo](https://turbo.build/) - інструмент інкрементальної компіляції, набагато пришвидшує білд
   
 
 ## 3. Підказки:
